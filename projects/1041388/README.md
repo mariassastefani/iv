@@ -35,3 +35,13 @@ __Τι είναι ο υπολογιστής;__
 
 **Ποια είναι μια αναλογία για τον υπολογιστή πέρα από εργαλείο;**
 Ο υπολογιστής είναι περισσότερο από ένα εργαλείο, καθώς λειτουργεί ως μέσο επικοινωνίας, μάθησης και έκφρασης, που επιτρέπει στους ανθρώπους να αλληλεπιδρούν, να δημιουργούν και να εξερευνούν νέες δυνατότητες
+
+**## <a href="https://github.com/upatras-hci/iv/discussions/198">Εβδομάδα 2 | Βιογραφικό Α</a>**
+Το link του αποθετηρίου είναι το ακόλουθο: https://github.com/mariassastefani/jekyll-cv
+Το link του βιογραφικού είναι το ακόλουθο: https://github.com/mariassastefani/jekyll-cv
+
+**## <a href="https://github.com/upatras-hci/iv/discussions/199">Εβδομάδα 3 | Γραμμή Εντολών </a>**
+Έγινε εγκατάσταση ArchLinux με τη χρήση του Virtual Box και με την χρήση του εργαλείου asciinema παρακάτω θα βρείτε τα παραδοτέα:
+**neofetch:** https://asciinema.org/a/STxODtJhm7RmUU7FaKqwqgoEZ
+**journalctl -b:** https://asciinema.org/a/WyZbihZFAzzEIwq6w5z1KQLxc
+
