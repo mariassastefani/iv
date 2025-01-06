@@ -10,7 +10,7 @@
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
-| 7 | βιογραφικό Β | [Βιογραφικό](https://github.com/upatras-hci/iv/discussions/200) | |
+| 7 | βιογραφικό Β | [Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/200) | |
 | 8 | γραμμή εντολών (iv cli) | | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
@@ -45,3 +45,17 @@ __Τι είναι ο υπολογιστής;__
 **neofetch:** https://asciinema.org/a/STxODtJhm7RmUU7FaKqwqgoEZ  
 **journalctl -b:** https://asciinema.org/a/WyZbihZFAzzEIwq6w5z1KQLxc
 
+## <a href="https://github.com/upatras-hci/iv/discussions/200">Εβδομάδα 7 | Βιογραφικό Β </a>
+Για την εβδομάδα 7, έχω κάνει fork το repository του simple-cv και δημιούργησα το δικό μου repository με όνομα [my-simple-cv ](https://github.com/mariassastefani/my-simple-cv.git)
+
+Χρησιμοποίησα το Git Bash για να κάνω clone το repository με την εντολή git clone 
+
+Στη συνέχεια, δημιούργησα το branch 1041388 με την εντολή git checkout -b 1041388 και προχώρησα σε τροποποιήσεις των αρχείων στους φακέλους sections, metadata, καθώς και του αρχείου docs/index.html, προσαρμόζοντας τα σύμφωνα με τα προσωπικά μου στοιχεία.
+
+Όταν ολοκλήρωσα τις απαραίτητες αλλαγές, χρησιμοποίησα τις εντολές git add <file>, git commit -m "Ενημέρωση στοιχείων", και git push origin 1041388 για να "δημοσιεύσω" τις αλλαγές στο repository μου (στο branch 1041388). 
+
+Για την παραγωγή του αρχείου PDF, εγκατέστησα τα pandoc και MikTeX και εκτέλεσα το script ./process.sh. Κάθε φορά που κάνω push αλλαγές στο αρχείο index.html, το online βιογραφικό και το παραγόμενο PDF ανανεώνονται αυτόματα. Το CV μου είναι διαθέσιμο στους παρακάτω συνδέσμους:
+
+- Repository URL: [my-simple-cv](https://github.com/mariassastefani/my-simple-cv)
+- [ CV ](https://mariassastefani.github.io/my-simple-cv/)
+- [ PDF](https://mariassastefani.github.io/my-simple-cv/StefaniM.pdf)
