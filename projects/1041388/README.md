@@ -11,7 +11,7 @@
 | 5 | γραμμή εντολών (custom desktop environment) | | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
 | 7 | βιογραφικό Β | [Βιογραφικό Β](https://github.com/upatras-hci/iv/discussions/200) | |
-| 8 | γραμμή εντολών (iv cli) | | |
+| 8 | γραμμή εντολών (iv cli) | [Γραμμή εντολών Α](https://github.com/upatras-hci/iv/discussions/201) | |
 | 9 | συμμετοχικό περιεχόμενο 1Β | | |
 | 10 | γραμμή εντολών (iv cli | | |
 | 11 | συμμετοχικό περιεχόμενο 2Β |-| |
@@ -59,3 +59,18 @@ __Τι είναι ο υπολογιστής;__
 - Repository URL: [my-simple-cv](https://github.com/mariassastefani/my-simple-cv)
 - [ CV ](https://mariassastefani.github.io/my-simple-cv/)
 - [ PDF](https://mariassastefani.github.io/my-simple-cv/StefaniM.pdf)
+
+## <a href="https://github.com/upatras-hci/iv/discussions/201">Εβδομάδα 8 | Γραμμή Εντολών (iv cli) </a>
+Στην παρούσα εργασία ασχολήθηκα με την απεικόνιση πληροφοριών και δεδομένων μέσω γραμμής εντολών, επεξεργαζόμενη υπηρεσίες γραμμής εντολών (console services).
+
+Έχουν συμπεριληφθεί και οι καταγραφές που υλοποιήθηκαν μέσω asciinema.
+
+**curl rate.sx**
+Επιστρέφει οικονομικά δεδομένα όπως: rank, price, market cap
+
+[asciinema](https://asciinema.org/a/8jumliB4bK6dHvzYG9Eaw8EjZ)
+
+**curl cheat.sh**
+Καλεί την υπηρεσία cheat.sh για να εμφανίσει cheat sheets (υποστηρικτικά φύλλα) για διάφορες γλώσσες προγραμματισμού και εργαλεία, παρέχοντας γρήγορη αναφορά για εντολές και συντακτικά παραδείγματα.
+
+[asciinema](https://asciinema.org/a/eppDSa0gv5agvDuZkAka7rSDq?fbclid=IwY2xjawHoz2hleHRuA2FlbQIxMAABHax2_MBQ8quOWnLVIuJTxXcLI_fDJwLWxE_rSymDnxrWelp0KpvB0Pw1CQ_aem_sBHJdvbNYyh6PlqCwU3cPQ)
