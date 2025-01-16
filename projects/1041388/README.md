@@ -74,3 +74,8 @@ __Τι είναι ο υπολογιστής;__
 Καλεί την υπηρεσία cheat.sh για να εμφανίσει cheat sheets (υποστηρικτικά φύλλα) για διάφορες γλώσσες προγραμματισμού και εργαλεία, παρέχοντας γρήγορη αναφορά για εντολές και συντακτικά παραδείγματα.
 
 [asciinema](https://asciinema.org/a/eppDSa0gv5agvDuZkAka7rSDq?fbclid=IwY2xjawHoz2hleHRuA2FlbQIxMAABHax2_MBQ8quOWnLVIuJTxXcLI_fDJwLWxE_rSymDnxrWelp0KpvB0Pw1CQ_aem_sBHJdvbNYyh6PlqCwU3cPQ)
+
+## <a href="https://github.com/upatras-hci/iv/discussions/202">Εβδομάδα 10 | Γραμμή Εντολών (iv cli) </a>
+
+Στο πλαίσιο της συγκεκριμένης άσκησης οπτικοποίησα ένα snake game, με την χρήση του ssh sshtron.zachlatta.com
+Στη συνέχεια, έγινε καταγραφή μέσω του [asciinema ](https://asciinema.org/a/RPCZL7dDFUM2V8L0BmM2cO7Je?fbclid=IwY2xjawH1z4tleHRuA2FlbQIxMAABHUNw2nsw4AHPtRqMlG2nuv7tcmbWKTVnc2Kz8Bb4embczhp2JfuWUL7bww_aem_BF7zgb4jMneB2t3-rvyAeQ)
